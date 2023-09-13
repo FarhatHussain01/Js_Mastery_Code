@@ -131,8 +131,8 @@ function juiceMaker(fruit1, fruit2) {
 juiceMaker("apple", "mango"); // argument
 
 function JuiceCounter(apples, mango) {
-  let juice = `we can make juice with  ${apples} apples and ${mango} mango`;
+  let juice = `we can make our juice with  ${apples} apples and ${mango} mango`;
   console.log(juice);
 }
 
-juiceMaker(); // argument
+juiceCounter(3,5); // argument
